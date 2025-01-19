@@ -20,6 +20,11 @@ cookies
 *.temp
 *.unknown_video
 *.ytdl
+*.opus
+*.mp4
+*.webm
+*.avi
+KEAN_DYSSO/
 .cache/
 
 *.3gp
@@ -126,3 +131,4 @@ yt-dlp.zip
 # Plugins
 ytdlp_plugins/
 yt-dlp-plugins
+/downloads
